@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.shutterstock.com/image-vector/infographics-charts-graphics-diagrams-on-260nw-177377594.jpg)](https://rafiqurrehman.io)
 <h1 align="center">Hi 👋, I'm Rafiq Ur Rehman</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwiZ676ck8_9AhVWpCcCHSIxBcUQMygCegUIARCVAg..i&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwiZ676ck8_9AhVWpCcCHSIxBcUQMygCegUIARCVAg">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqurrehman&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqurrehman" /> </p>
 
