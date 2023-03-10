@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/infographics-charts-graphics-diagrams-on-260nw-177377594.jpg)](https://rafiqurrehman.io)
+[![MasterHead](https://www.hays.co.uk/documents/14947236/18198294/Image_Tech_Job_Data_Analyst_Science_LandingPage.jpg/6baea6c5-943e-d31d-1e17-67c5e54c8bc8?t=1617916807268)](https://rafiqurrehman.io)
 <h1 align="center">Hi 👋, I'm Rafiq Ur Rehman</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
