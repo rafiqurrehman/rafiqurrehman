@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Power BI, Python, Sql, Excel**
+- 💬 Ask me about **C#, Power BI, Python, Sql, Sql Server, Excel**
 
-- 📫 How to reach me **rk5362331@gmail.com**
+- 📫 How to reach me **rafiqurrehman315@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
